@@ -62,7 +62,7 @@ A powerful web application that leverages artificial intelligence to generate pr
  - Password: password
 
 ### config.php
-- In this file you need to past your Gemini APK key.
+- In this file you need to past your Gemini API key.
 - Otherwise the content will not generate.
 - Generate a Gemini API key by logging into your account.
 
