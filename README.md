@@ -7,21 +7,7 @@
 
 A powerful web application that leverages artificial intelligence to generate professional marketing copy for multiple platforms. Create engaging content for Facebook, Instagram, LinkedIn, Google Ads, and Email in seconds.
 
-![Dashboard Preview](screenshots/dashboard-preview.png)
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage Guide](#usage-guide)
-- [Admin Panel](#admin-panel)
-- [API Integration](#api-integration)
-- [Database Schema](#database-schema)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## ✨ Features
 
@@ -71,9 +57,4 @@ A powerful web application that leverages artificial intelligence to generate pr
 - OpenAI API key
 - Composer (optional)
 
-### Step-by-Step Installation
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/ai-marketing-copy-generator.git
-cd ai-marketing-copy-generator
