@@ -57,4 +57,8 @@ A powerful web application that leverages artificial intelligence to generate pr
 - OpenAI API key
 - Composer (optional)
 
+ ## Admin logn
+ -Username: newadmin
+ -Password: password
+
 
