@@ -58,7 +58,7 @@ A powerful web application that leverages artificial intelligence to generate pr
 - Composer (optional)
 
  ## Admin logn
- -Username: newadmin
- -Password: password
+ - Username: newadmin
+ - Password: password
 
 
